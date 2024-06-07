@@ -5,7 +5,6 @@ In this project, I will use local binary patterns (LBP) to build a system that c
 
 
 
-### It is currently being updated....
 
 
 |                      | precision | recall | f1-score | support |
